@@ -11,6 +11,10 @@
 
 <br/>
 
+<img src="./assets/ferdowsi-modern-terminal.jpg" alt="Ferdowsi at Terminal - ParsiSaz" width="850" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+
+<br/><br/>
+
 > *"Much have I suffered in these thirty years, / I have revived the Persian tongue with this work."*  
 > **— Ferdowsi (Shahnameh)**  
 >  
