@@ -1,0 +1,29 @@
+name: "✍️ پیشنهاد ترجمه / ویرایش متن"
+description: گزارش ایراد نگارشی، غلط املایی یا پیشنهاد معادل بهتر
+title: "[TRANS]: "
+labels: ["translation", "triage"]
+body:
+  - type: input
+    id: game-title
+    attributes:
+      label: عنوان بازی / نرم‌افزار
+      placeholder: "مثلاً Kenshi، Project Zomboid، Parsik"
+    validations:
+      required: true
+  - type: textarea
+    id: original-text
+    attributes:
+      label: متن اصلی (انگلیسی)
+    validations:
+      required: true
+  - type: textarea
+    id: current-translation
+    attributes:
+      label: ترجمه فعلی (در صورت وجود)
+  - type: textarea
+    id: proposed-translation
+    attributes:
+      label: ترجمه یا ویرایش پیشنهادی شما
+      description: لطفاً نیم‌فاصله استاندارد را رعایت فرمایید.
+    validations:
+      required: true

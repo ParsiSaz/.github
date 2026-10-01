@@ -1,0 +1,24 @@
+name: "🐛 گزارش باگ فونت یا کرش بازی"
+description: گزارش به هم ریختگی فونت، وارونگی حروف یا مشکل فنی در پچ
+title: "[BUG]: "
+labels: ["bug", "triage"]
+body:
+  - type: input
+    id: game-app
+    attributes:
+      label: عنوان بازی یا ابزار
+      placeholder: "مثلاً Darkest Dungeon 2"
+    validations:
+      required: true
+  - type: textarea
+    id: issue-desc
+    attributes:
+      label: شرح مشکل
+      description: "آیا حروف وارونه هستند؟ آیا بازی هنگام بارگذاری فونت کرش می‌کند؟"
+    validations:
+      required: true
+  - type: textarea
+    id: system-info
+    attributes:
+      label: مشخصات فنی و نسخه
+      placeholder: "نسخه بازی، سیستم‌عامل (Windows 11 / Linux Mint / Steam Deck)"
