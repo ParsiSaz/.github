@@ -4,6 +4,7 @@
 ### *Preserving, Modernizing, and Championing the Persian Language in Modern Computing & Gaming*
 ### *پاسداری، نوآوری و شکوفایی زبان پارسی در قلمرو نرم‌افزار، بازی‌ها و فناوری دیجیتال*
 
+[![Live Portal](https://img.shields.io/badge/Web_Portal-parsisaz.github.io-purple?style=for-the-badge&logo=googlechrome)](https://parsisaz.github.io/parsisaz/)
 [![Persian Version](https://img.shields.io/badge/نسخه_فارسی-(Persian_README)-emerald?style=for-the-badge&logo=readme)](https://github.com/ParsiSaz/.github/blob/main/profile/README_FA.md)
 [![Founder](https://img.shields.io/badge/Founder_&_Lead-Danial_Pahlavan_(@DanialPahlavan)-00f2fe?style=for-the-badge&logo=github)](https://github.com/DanialPahlavan)
 [![Focus Area](https://img.shields.io/badge/Ecosystem-Persian_Localization_&_Typography-blue?style=for-the-badge)](#-focus-areas)
