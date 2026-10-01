@@ -1,91 +1,88 @@
 <div align="center">
 
-# 🏛️ پارسی‌ساز | ParsiSaz
-### *پاسداری، نوآوری و شکوفایی زبان پارسی در قلمرو نرم‌افزار، بازی‌ها و فناوری دیجیتال*
+# 🏛️ ParsiSaz | پارسی‌ساز
 ### *Preserving, Modernizing, and Championing the Persian Language in Modern Computing & Gaming*
+### *پاسداری، نوآوری و شکوفایی زبان پارسی در قلمرو نرم‌افزار، بازی‌ها و فناوری دیجیتال*
 
-[![Founder](https://img.shields.io/badge/بنیان‌گذار_و_سرپرست-دانیال_پهلوان_(@DanialPahlavan)-00f2fe?style=for-the-badge&logo=github)](https://github.com/DanialPahlavan)
-[![Ecosystem](https://img.shields.io/badge/اکوسیستم-بومی‌سازی_و_خط_پارسی-emerald?style=for-the-badge)](#-شاخه‌های-فعالیت--focus-areas)
-[![License Policy](https://img.shields.io/badge/قوانین-پچ_بدون_باینری_کپی‌رایت-orange?style=for-the-badge)](#-سلب-مسئولیت-حقوقی-و-کپی‌رایت--legal-compliance)
+[![Persian Version](https://img.shields.io/badge/نسخه_فارسی-(Persian_README)-emerald?style=for-the-badge&logo=readme)](https://github.com/ParsiSaz/.github/blob/main/profile/README_FA.md)
+[![Founder](https://img.shields.io/badge/Founder_&_Lead-Danial_Pahlavan_(@DanialPahlavan)-00f2fe?style=for-the-badge&logo=github)](https://github.com/DanialPahlavan)
+[![Focus Area](https://img.shields.io/badge/Ecosystem-Persian_Localization_&_Typography-blue?style=for-the-badge)](#-focus-areas)
+[![License Policy](https://img.shields.io/badge/Policy-Zero_Binary_Game_Patches-orange?style=for-the-badge)](#-legal-compliance--modding-policy)
 
 <br/>
 
-> *«بسی رنج بردم در این سال سی / عجم زنده کردم بدین پارسی»*  
-> **— حکیم ابوالقاسم فردوسی**  
+> *"Much have I suffered in these thirty years, / I have revived the Persian tongue with this work."*  
+> **— Ferdowsi (Shahnameh)**  
 >  
-> همان‌گونه که فردوسی بزرگ در قرن چهارم هجری زبان و هویت پارسی را جاودانه ساخت، **پارسی‌ساز (ParsiSaz)** با تکیه بر فرهنگ غنی این مرزوبوم، مأموریت پاسداری از خط و زبان پارسی را در عصر کدهای باینری، موتورهای بازی‌سازی و سامانه‌های عامل دنبال می‌کند.
+> Just as Ferdowsi safeguarded Persian culture and language over a millennium ago, **ParsiSaz** brings this legacy into the modern digital era. Our mission is to preserve, localize, and modernize the Persian language across modern software, gaming engines, typography pipelines, and operating systems.
 
 </div>
 
 ---
 
-### 👨‍💻 بنیان‌گذار و مالک معنوی | Founder & Lead Maintainer
+### 👨‍💻 Founder & Lead Maintainer
 
-سازمان **پارسی‌ساز (ParsiSaz)** توسط **[دانیال پهلوان (@DanialPahlavan)](https://github.com/DanialPahlavan)** تأسیس گردیده و رهبری می‌شود. 
+**ParsiSaz** was founded and is directed by **[Danial Pahlavan (@DanialPahlavan)](https://github.com/DanialPahlavan)**.
 
-- **سهم مشارکت و کدنویسی**: بیش از ۹۰٪ ترجمه‌ها، کدبیس موتورهای استخراج، تزریق فونت، ساخت پچ‌های اختصاصی و سازگاری با نمایش راست‌به‌چپ (RTL) مستقیماً توسط دانیال پهلوان تولید، مستند و منتشر شده است.
-- **همکاری آزاد (Open Community)**: این سازمان ضمن حفظ اصالت و اعتبار علمی کارهای مادر، بستر هم‌افزایی برای جامعه مترجمان، مهندسان معکوس و عاشقان زبان پارسی است.
+- **Author Contribution & Provenance**: More than 90% of the game translations, reverse-engineering toolchains, custom font patchers, and RTL (Right-to-Left) rendering adaptations across these repositories were authored, engineered, and published directly by Danial Pahlavan.
+- **Open Community**: While safeguarding core intellectual attribution and historical engineering integrity, ParsiSaz serves as an open collaboration hub for linguists, translators, reverse-engineers, and font developers passionate about Persian computing.
 
 ---
 
-### 📂 شاخه‌های فعالیت | Focus Areas
+### 📂 Focus Areas
 
 ```
                              ┌────────────────────────┐
                              │       ParsiSaz         │
-                             │  مرکز تخصصی پارسی‌سازی  │
+                             │  Persian Localization  │
                              └───────────┬────────────┘
                                          │
          ┌───────────────────┬───────────┴───────────┬───────────────────┐
          ▼                   ▼                       ▼                   ▼
-   [ پچ‌های بازی ]       [ ابزارهای بومی‌سازی ]   [ اجزای سیستم و تقویم ]   [ مستندات و اصطلاحات ]
-   • Kenshi            • Parsik (GUI Installer) • Jalali / Shamsi Engine  • فرهنگ واژگان تخصصی
-   • Project Zomboid   • farsiSaz (Core Engine) • قلم‌های راست‌به‌چپ (RTL) • راهنمای پچ‌نویسی
-   • Darkest Dungeon 2 • استخراج‌کننده‌های متن  • اصلاح اعراب و نیم‌فاصله • ضوابط کپی‌رایت
-   • Stronghold / ONI  • نگاشت فونت و کدپیج   • سازگاری گنوم و لینوکس   • مشارکت کامیونیتی
+  [ Game Patches ]    [ Localization Tools ]  [ System & Calendar ]   [ Documentation ]
+  • Kenshi            • Parsik (GUI Tool)     • Jalali / Shamsi APIs  • Terminology Lexicon
+  • Project Zomboid   • farsiSaz (Patcher)    • RTL Font Toolchains   • Patcher Guidelines
+  • Darkest Dungeon 2 • Text Extraction Tools • ZWNJ & Glyph Shapers  • Modding Ethics
+  • Stronghold Series • Custom Codepage Maps  • Linux / UI Desktop    • Community Standards
 ```
 
 ---
 
-### 🎮 فهرست پروژه‌های بومی‌سازی بازی‌ها | Game Localization Catalog
+### 🎮 Game Localization Catalog
 
-تمام پروژه‌های بومی‌سازی بازی در پارسی‌ساز صرفاً شامل **متون ترجمه‌شده، فونت‌های بهینه‌شده و اسکریپت‌های پچ‌ساز** بوده و نیازمند نسخه قانونی و خریداری‌شده بازی می‌باشند:
+All game translation and localization projects hosted under ParsiSaz distribute **strictly original translation assets, optimized typography fonts, and community patch scripts**. They contain no proprietary game binaries and require a legitimate, legally acquired copy of the game.
 
-| عنوان بازی | وضعیت پروژه | ابزار تزریق / فرمت | مخزن گیت‌هاب |
+| Game Title | Status | Format / Patcher | GitHub Repository |
 | :--- | :---: | :--- | :--- |
-| **Kenshi** | پایدار (Stable) | پچ رسمی ماد استیم و فایل‌های XML/Po | [`ParsiSaz/Kenshi-farsi`](https://github.com/ParsiSaz/Kenshi-farsi) |
-| **Project Zomboid** | فعال (Active) | پچ فونت و ترجمه فایل‌های رادیو و UI | [`ParsiSaz/Project-Zomboid-Game--Persian`](https://github.com/ParsiSaz/Project-Zomboid-Game--Persian) |
-| **Darkest Dungeon 2** | پایدار (Stable) | نگاشت کلمات و پچ گلیف‌های اختصاصی | [`ParsiSaz/DarkestDungeon-2---Persian`](https://github.com/ParsiSaz/DarkestDungeon-2---Persian) |
-| **Software Inc.** | پایدار (Stable) | فایل کاتالوگ ترجمه CSV/XML | [`ParsiSaz/Software-Inc-Game---Persian`](https://github.com/ParsiSaz/Software-Inc-Game---Persian) |
-| **Oxygen Not Included** | فعال (Active) | تزریق قلم دوتایکی و PO Translation | [`ParsiSaz/Oxygen-not-included-Persian`](https://github.com/ParsiSaz/Oxygen-not-included-Persian) |
-| **Stronghold: Warlords** | پایدار (Stable) | اصلاح رشته‌های متنی و رابط کاربری | [`ParsiSaz/Stronghold-Warlords---Persian`](https://github.com/ParsiSaz/Stronghold-Warlords---Persian) |
-| **Don't Starve Together** | فعال (Active) | ماد بومی‌سازی کارگاهی و اصلاح تکسچرها | [`ParsiSaz/Dont-Strave-together-Persian`](https://github.com/ParsiSaz/Dont-Strave-together-Persian) |
-| **Civilization VI** | پایدار (R&D) | فایل‌های دیتابیس لوکالیزیشن SQLite/XML | [`ParsiSaz/CivilizationVI-PersianLanguage`](https://github.com/ParsiSaz/CivilizationVI-PersianLanguage) |
-| **Stronghold Crusader Mods** | فعال (Active) | ابزارهای مدسازی و اسکریپت‌های فارسی | [`ParsiSaz/stronghold-crusader1-mods`](https://github.com/ParsiSaz/stronghold-crusader1-mods) |
+| **Kenshi** | Stable | Steam Workshop Mod & Po/XML files | [`ParsiSaz/Kenshi-farsi`](https://github.com/ParsiSaz/Kenshi-farsi) |
+| **Project Zomboid** | Active | Custom font atlas & UI translation files | [`ParsiSaz/Project-Zomboid-Game--Persian`](https://github.com/ParsiSaz/Project-Zomboid-Game--Persian) |
+| **Darkest Dungeon 2** | Stable | Glyph mapping & localized string tables | [`ParsiSaz/DarkestDungeon-2---Persian`](https://github.com/ParsiSaz/DarkestDungeon-2---Persian) |
+| **Software Inc.** | Stable | Translation catalog CSV/XML | [`ParsiSaz/Software-Inc-Game---Persian`](https://github.com/ParsiSaz/Software-Inc-Game---Persian) |
+| **Oxygen Not Included** | Active | Custom bitmap font & PO language assets | [`ParsiSaz/Oxygen-not-included-Persian`](https://github.com/ParsiSaz/Oxygen-not-included-Persian) |
+| **Stronghold: Warlords** | Stable | Text localization data & font configs | [`ParsiSaz/Stronghold-Warlords---Persian`](https://github.com/ParsiSaz/Stronghold-Warlords---Persian) |
+| **Don't Starve Together** | Active | Localized PO tables & custom Persian fonts | [`ParsiSaz/Dont-Strave-together-Persian`](https://github.com/ParsiSaz/Dont-Strave-together-Persian) |
+| **Stronghold Crusader 1** | Archive | Historic Persian community patches & resources | [`ParsiSaz/stronghold-crusader1-mods`](https://github.com/ParsiSaz/stronghold-crusader1-mods) |
 
 ---
 
-### 🛠️ ابزارها و موتورهای توسعه پارسی | Core Engines & Tooling
+### 🛠️ Core Technology & Desktop Toolchains *(In Active Development)*
 
-| عنوان پروژه | نوع ابزار | نقش فنی | مخزن |
-| :--- | :--- | :--- | :--- |
-| **`Parsik`** | نصاب گرافیکی (GUI Installer) | ابزار دسکتاپ کراس‌پلتفرم برای نصب خودکار و تک‌کلیک زبان پارسی در بازی‌ها | [`ParsiSaz/Parsik`](https://github.com/ParsiSaz/Parsik) |
-| **`farsiSaz`** | کتابخانه هسته (Core Library) | اسکریپت‌های پایتون جهت استخراج متون، تبدیل کدپیج‌ها و رفع وارونگی کلمات فارسی | [`ParsiSaz/farsiSaz`](https://github.com/ParsiSaz/farsiSaz) |
-| **`PersianTranslation_of_Apps_Games`** | اکوسیستم مرجع | مخزن مرکزی هماهنگی پروژه‌ها، فرمت‌ها و مستندات جامعه مترجمان | [`ParsiSaz/PersianTranslation_of_Apps_Games`](https://github.com/ParsiSaz/PersianTranslation_of_Apps_Games) |
+- **`Parsik`** *(Private/Core)*: Modular cross-platform GUI manager designed to effortlessly download, verify, install, and update Persian language patches and font packs for PC games.
+- **`farsiSaz`** *(Private/Core)*: Deep reverse-engineering framework, script parser, and font atlas generator tailored for games lacking native Unicode or Right-to-Left (RTL) text shaping.
+- **`CivilizationVI-PersianLanguage`** *(In Progress)*: Full Persian civilization and UI localization module for Sid Meier's Civilization VI.
 
 ---
 
-### ⚖️ سلب مسئولیت حقوقی و کپی‌رایت | Legal Compliance & Fair Use
+### ⚖️ Legal Compliance & Modding Policy
 
-سازمان **ParsiSaz** پیرو مرام‌نامه اخلاقی و قوانین بین‌المللی کپی‌رایت عمل می‌کند:
-1. **عدم بازنشر فایل‌های باینری تجاری**: هیچ‌کدام از مخازن این سازمان شامل فایل‌های اجرایی (`.exe`، `.dll`)، مدیاهای دارای حق نشر یا بازی کرک‌شده نیستند.
-2. **ارائه در قالب Patch و Mod**: تمام پروژه‌ها در قالب پچ‌های دیف (Diff)، افزونه‌های کارگاهی استیم (Steam Workshop) یا فایل‌های متنی مستقل و رایگان عرضه می‌شوند.
-3. **مالکیت معنوی ناشران**: تمامی حقوق برند، کاراکترها و محتوای اصلی متعلق به توسعه‌دهندگان و ناشران اصلی بازی‌هاست و پچ‌های پارسی‌ساز صرفاً کاربری پژوهشی و غیرتجاری در چارچوب قانون **استفاده منصفانه (Fair Use)** دارند.
+1. **Strictly Non-Infringing**: Repositories in this organization do **NOT** distribute cracked executables, bypass DRM, or host copyrighted game code/audio/textures.
+2. **Fair Use & Modding**: Text modifications and localization patches are fan-made initiatives distributed under open-source or creative commons licenses to enable Persian-speaking gamers worldwide to experience interactive media in their native language.
+3. **Upstream Copyright**: All trademarks, game titles, and intellectual property belong to their respective developers and publishers.
 
 ---
 
-### 🤝 مشارکت در پروژه‌ها | How to Contribute
+### 🌐 Organization Links
 
-ما از تمامی داوطلبان، ویراستاران ادبی و برنامه‌نویسان استقبال می‌کنیم:
-- پیش از شروع، لطفاً [راهنمای مشارکت (CONTRIBUTING.md)](https://github.com/ParsiSaz/.github/blob/main/CONTRIBUTING.md) و [واژه‌نامه استاندارد (GLOSSARY.md)](https://github.com/ParsiSaz/.github/blob/main/GLOSSARY.md) را مطالعه فرمایید.
-- در ترجمه متون، رعایت **نیم‌فاصله استاندارد (ZWNJ)** و پرهیز از لحن محاوره‌ای یا ترجمه ماشینی الزامی است.
+- 🏛️ **Organization Home**: [https://github.com/ParsiSaz](https://github.com/ParsiSaz)
+- 👤 **Founder Profile**: [https://github.com/DanialPahlavan](https://github.com/DanialPahlavan)
+- 📖 **Persian Documentation**: [README_FA.md (راهنمای فارسی)](https://github.com/ParsiSaz/.github/blob/main/profile/README_FA.md)
