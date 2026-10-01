@@ -61,6 +61,7 @@
 | **Stronghold: Warlords** | پایدار (Stable) | اصلاح رشته‌های متنی و رابط کاربری | [`ParsiSaz/Stronghold-Warlords---Persian`](https://github.com/ParsiSaz/Stronghold-Warlords---Persian) |
 | **Don't Starve Together** | فعال (Active) | ماد بومی‌سازی کارگاهی و اصلاح تکسچرها | [`ParsiSaz/Dont-Strave-together-Persian`](https://github.com/ParsiSaz/Dont-Strave-together-Persian) |
 | **Civilization VI** | پایدار (R&D) | فایل‌های دیتابیس لوکالیزیشن SQLite/XML | [`ParsiSaz/CivilizationVI-PersianLanguage`](https://github.com/ParsiSaz/CivilizationVI-PersianLanguage) |
+| **Stronghold Crusader Mods** | فعال (Active) | ابزارهای مدسازی و اسکریپت‌های فارسی | [`ParsiSaz/stronghold-crusader1-mods`](https://github.com/ParsiSaz/stronghold-crusader1-mods) |
 
 ---
 
@@ -71,7 +72,6 @@
 | **`Parsik`** | نصاب گرافیکی (GUI Installer) | ابزار دسکتاپ کراس‌پلتفرم برای نصب خودکار و تک‌کلیک زبان پارسی در بازی‌ها | [`ParsiSaz/Parsik`](https://github.com/ParsiSaz/Parsik) |
 | **`farsiSaz`** | کتابخانه هسته (Core Library) | اسکریپت‌های پایتون جهت استخراج متون، تبدیل کدپیج‌ها و رفع وارونگی کلمات فارسی | [`ParsiSaz/farsiSaz`](https://github.com/ParsiSaz/farsiSaz) |
 | **`PersianTranslation_of_Apps_Games`** | اکوسیستم مرجع | مخزن مرکزی هماهنگی پروژه‌ها، فرمت‌ها و مستندات جامعه مترجمان | [`ParsiSaz/PersianTranslation_of_Apps_Games`](https://github.com/ParsiSaz/PersianTranslation_of_Apps_Games) |
-| **`PerDoc-mining-`** | پردازش متن (NLP) | ابزار پیش‌پردازش، تمیزسازی و استخراج واژگان متون پارسی | [`ParsiSaz/PerDoc-mining-`](https://github.com/ParsiSaz/PerDoc-mining-) |
 
 ---
 
