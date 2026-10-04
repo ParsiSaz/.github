@@ -4,17 +4,24 @@
 ### *Preserving, Modernizing, and Championing the Persian Language in Modern Computing & Gaming*
 ### *پاسداری، نوآوری و شکوفایی زبان پارسی در قلمرو نرم‌افزار، بازی‌ها و فناوری دیجیتال*
 
-[![Live Portal](https://img.shields.io/badge/Web_Portal-parsisaz.github.io-purple?style=for-the-badge&logo=googlechrome)](https://parsisaz.github.io/parsisaz/)
+<br/>
+
+[![Live Portal](https://img.shields.io/badge/🌐_Official_Documentation_Portal-parsisaz.github.io%2Fparsisaz-00f2fe?style=for-the-badge&logo=googlechrome)](https://parsisaz.github.io/parsisaz/)
 [![Persian Version](https://img.shields.io/badge/نسخه_فارسی-(Persian_README)-emerald?style=for-the-badge&logo=readme)](https://github.com/ParsiSaz/.github/blob/main/profile/README_FA.md)
-[![Founder](https://img.shields.io/badge/Founder_&_Lead-Danial_Pahlavan_(@DanialPahlavan)-00f2fe?style=for-the-badge&logo=github)](https://github.com/DanialPahlavan)
-[![Focus Area](https://img.shields.io/badge/Ecosystem-Persian_Localization_&_Typography-blue?style=for-the-badge)](#-focus-areas)
-[![License Policy](https://img.shields.io/badge/Policy-Zero_Binary_Game_Patches-orange?style=for-the-badge)](#-legal-compliance--modding-policy)
+[![Founder](https://img.shields.io/badge/Founder_&_Lead-Danial_Pahlavan_(@DanialPahlavan)-blue?style=for-the-badge&logo=github)](https://github.com/DanialPahlavan)
+[![Focus Area](https://img.shields.io/badge/Ecosystem-Persian_Localization_&_Typography-purple?style=for-the-badge)](#-focus-areas)
 
 <br/>
 
-<img src="./assets/ferdowsi-modern-terminal.jpg" alt="Ferdowsi at Terminal - ParsiSaz" width="850" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+<a href="https://parsisaz.github.io/parsisaz/">
+  <img src="./assets/ferdowsi-modern-terminal.jpg" alt="Ferdowsi at Terminal - ParsiSaz" width="850" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+</a>
 
 <br/><br/>
+
+### 👉 **[Explore Games, Technical Limitations & Installation Guides on Our Web Portal](https://parsisaz.github.io/parsisaz/)** 👈
+
+<br/>
 
 > *"Much have I suffered in these thirty years, / I have revived the Persian tongue with this work."*  
 > **— Ferdowsi (Shahnameh)**  
@@ -22,6 +29,7 @@
 > Just as Ferdowsi safeguarded Persian culture and language over a millennium ago, **ParsiSaz** brings this legacy into the modern digital era. Our mission is to preserve, localize, and modernize the Persian language across modern software, gaming engines, typography pipelines, and operating systems.
 
 </div>
+
 
 ---
 
