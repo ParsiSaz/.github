@@ -1,34 +1,46 @@
 ---
-name: "Reusable Translation Mod Release"
+name: "Reusable Translation Mod Release (2026 Standard)"
 
 on:
   workflow_call:
     inputs:
       exclude-patterns:
+        description: "Space-separated exclude patterns for zip bundling"
         required: false
         type: string
-        default: "*.git* .github/* *.bak *.tmp *.pyc __pycache__/*"
+        default: "*.git* .github/* *.bak *.tmp *.pyc __pycache__/* .ruff_cache/* .pytest_cache/*"
 
 permissions:
   contents: write
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   bundle-and-release:
+    name: "Package & Publish Release"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Create Zip Package
+      - name: Create Clean Zip Archive & Checksums
         run: |
           REPO_NAME=$(basename "${{ github.repository }}")
           ZIP_NAME="${REPO_NAME}-Persian-Translation.zip"
-          echo "Packaging translation into ${ZIP_NAME}..."
+          echo "==> Packaging translation assets into ${ZIP_NAME}..."
           zip -r "${ZIP_NAME}" . -x ${{ inputs.exclude-patterns }}
+          
+          echo "==> Calculating SHA256 cryptographic checksums..."
+          sha256sum "${ZIP_NAME}" > SHA256SUMS.txt
+          cat SHA256SUMS.txt
 
-      - name: Create GitHub Release
+      - name: Publish GitHub Release
         uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
         with:
-          files: "*-Persian-Translation.zip"
+          files: |
+            *-Persian-Translation.zip
+            SHA256SUMS.txt
           generate_release_notes: true

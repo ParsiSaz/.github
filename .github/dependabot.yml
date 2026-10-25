@@ -4,8 +4,12 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "monthly"
     commit-message:
       prefix: "ci"
       include: "scope"
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 5
+    groups:
+      actions-ecosystem:
+        patterns:
+          - "*"
