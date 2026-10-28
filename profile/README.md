@@ -33,7 +33,7 @@ All live catalogs, reverse-engineering notes, and installation guides are hosted
 👉 **[https://parsisaz.github.io/parsisaz/](https://parsisaz.github.io/parsisaz/)**
 
 - 🎮 **73+ Localized & Upcoming Games**: Filter across *Official Releases*, *Open-Source Games*, and *Community Mods* (Free & Paid).
-- 📱 **37+ Applications**: Search open-source software with Persian translation support.
+- 📱 **42+ Applications**: Search open-source software with Persian translation support.
 - ⚠️ **Engine Challenges**: In-depth breakdowns of RTL text shaping, font injection, and game-specific quirks.
 - 📋 **One-Click Install Guides**: Copyable directory paths and step-by-step instructions.
 
