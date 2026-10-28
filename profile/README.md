@@ -1,131 +1,52 @@
 <div align="center">
 
-# 🏛️ ParsiSaz | پارسی‌ساز
-### *Preserving, Modernizing, and Championing the Persian Language in Modern Computing & Gaming*
-### *پاسداری، نوآوری و شکوفایی زبان پارسی در قلمرو نرم‌افزار، بازی‌ها و فناوری دیجیتال*
-
-<br/>
-
-[![Live Portal](https://img.shields.io/badge/🌐_Official_Documentation_Portal-parsisaz.github.io%2Fparsisaz-00f2fe?style=for-the-badge&logo=googlechrome)](https://parsisaz.github.io/parsisaz/)
-[![Persian Version](https://img.shields.io/badge/نسخه_فارسی-(Persian_README)-emerald?style=for-the-badge&logo=readme)](https://github.com/ParsiSaz/.github/blob/main/profile/README_FA.md)
-[![Founder](https://img.shields.io/badge/Founder_&_Lead-Danial_Pahlavan_(@DanialPahlavan)-blue?style=for-the-badge&logo=github)](https://github.com/DanialPahlavan)
-[![Focus Area](https://img.shields.io/badge/Ecosystem-Persian_Localization_&_Typography-purple?style=for-the-badge)](#-focus-areas)
-
-<br/>
-
 <a href="https://parsisaz.github.io/parsisaz/">
-  <img src="./assets/ferdowsi-modern-terminal.jpg" alt="ParsiSaz Web Portal" width="850" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(0,242,254,0.25);" />
+  <img src="./assets/ferdowsi-modern-terminal.jpg" alt="ParsiSaz Portal" width="850" style="border-radius: 12px;" />
 </a>
 
-<br/><br/>
+# ParsiSaz | پارسی‌ساز
 
-<!-- ==================== PROMINENT WEB PORTAL CALLOUT ==================== -->
-<table>
-  <tr>
-    <td align="center" style="background-color: #0b0f19; border: 2px solid #00f2fe; border-radius: 14px; padding: 24px 16px;">
-      <a href="https://parsisaz.github.io/parsisaz/">
-        <img src="https://img.shields.io/badge/🌐_OFFICIAL_WEB_PORTAL-parsisaz.github.io%2Fparsisaz-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="ParsiSaz Web Portal" height="34" />
-      </a>
-      <br/><br/>
-      <a href="https://parsisaz.github.io/parsisaz/" style="text-decoration: none;">
-        <h2>
-          🎮 📱 <b>CLICK HERE FOR THE FULL LIST OF GAMES & APPLICATIONS</b><br/>
-          <span style="color: #00f2fe;">👉 جهت مشاهده فهرست کامل بازی‌ها و برنامه‌های فارسی‌سازی شده کلیک کنید 👈</span>
-        </h2>
-      </a>
-      <p align="center" style="font-size: 1.05em; line-height: 1.8; max-width: 780px;">
-        <b>English:</b> Explore our live, searchable catalog of <b>40+ localized games & applications</b>. Filter by <b>Official</b>, <b>Open-Source</b>, and <b>Community Mod</b>, view reverse-engineering challenges (RTL shaping & font injections), and find one-click copyable install paths.<br/>
-        <b>فارسی:</b> دسترسی به فهرست جامع و تعاملی بیش از <b>۴۰ عنوان بازی و نرم‌افزار بومی‌سازی‌شده</b>. فیلتر بر اساس بازی‌های <b>رسمی</b>، <b>متن‌باز</b> و <b>مادهای کامیونیتی</b>، تحلیل موانع فنی خط پارسی و راست‌به‌چپ (RTL) به همراه راهنمای نصب قدم‌به‌قدم.
-      </p>
-      <br/>
-      <a href="https://parsisaz.github.io/parsisaz/">
-        <img src="https://img.shields.io/badge/🚀_OPEN_LIVE_PORTAL_%7C_ورود_به_سایت_parsisaz.github.io-00f2fe?style=for-the-badge&logoColor=black" alt="Open Live Portal" height="38" />
-      </a>
-    </td>
-  </tr>
-</table>
-<!-- ====================================================================== -->
+**Preserving and standardizing the Persian language in modern gaming and computing.**  
+*پاسداری، نوآوری و استانداردسازی زبان و خط پارسی در بازی‌ها و فناوری دیجیتال*
 
 <br/>
 
-> *"Much have I suffered in these thirty years, / I have revived the Persian tongue with this work."*  
-> **— Ferdowsi (Shahnameh)**  
->  
-> Just as Ferdowsi safeguarded Persian culture and language over a millennium ago, **ParsiSaz** brings this legacy into the modern digital era. Our mission is to preserve, localize, and modernize the Persian language across modern software, gaming engines, typography pipelines, and operating systems.
+[![Interactive Web Portal](https://img.shields.io/badge/🌐_Interactive_Portal-parsisaz.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black)](https://parsisaz.github.io/parsisaz/)
+[![Persian Version](https://img.shields.io/badge/🇮🇷_نسخه_فارسی-README_FA-10b981?style=for-the-badge)](./README_FA.md)
 
 </div>
 
+<br/>
+
+## 🌟 Overview
+
+**ParsiSaz** is an open engineering initiative dedicated to Persian (Farsi) game localizations, reverse-engineering non-Unicode graphics engines, implementing Right-to-Left (RTL) text shaping, and developing modern translation toolchains.
+
+Directed by **[Danial Pahlavan (@DanialPahlavan)](https://github.com/DanialPahlavan)**, the initiative maintains original translation assets, custom typography font atlases, and community localization patches for PC titles.
 
 ---
 
-### 👨‍💻 Founder & Lead Maintainer
+## 🚀 Interactive Portal
 
-**ParsiSaz** was founded and is directed by **[Danial Pahlavan (@DanialPahlavan)](https://github.com/DanialPahlavan)**.
+All live catalogs, reverse-engineering notes, and installation guides are hosted on our interactive portal:
 
-- **Author Contribution & Provenance**: More than 90% of the game translations, reverse-engineering toolchains, custom font patchers, and RTL (Right-to-Left) rendering adaptations across these repositories were authored, engineered, and published directly by Danial Pahlavan.
-- **Open Community**: While safeguarding core intellectual attribution and historical engineering integrity, ParsiSaz serves as an open collaboration hub for linguists, translators, reverse-engineers, and font developers passionate about Persian computing.
+👉 **[https://parsisaz.github.io/parsisaz/](https://parsisaz.github.io/parsisaz/)**
 
----
-
-### 📂 Focus Areas
-
-```
-                             ┌────────────────────────┐
-                             │       ParsiSaz         │
-                             │  Persian Localization  │
-                             └───────────┬────────────┘
-                                         │
-         ┌───────────────────┬───────────┴───────────┬───────────────────┐
-         ▼                   ▼                       ▼                   ▼
-  [ Game Patches ]    [ Localization Tools ]  [ System & Calendar ]   [ Documentation ]
-  • Kenshi            • Parsik (GUI Tool)     • Jalali / Shamsi APIs  • Terminology Lexicon
-  • Project Zomboid   • farsiSaz (Patcher)    • RTL Font Toolchains   • Patcher Guidelines
-  • Darkest Dungeon 2 • Text Extraction Tools • ZWNJ & Glyph Shapers  • Modding Ethics
-  • Stronghold Series • Custom Codepage Maps  • Linux / UI Desktop    • Community Standards
-```
+- 🎮 **59+ Localized Games**: Filter across *Official Releases*, *Open-Source Games*, and *Community Mods* (Free & Paid).
+- 📱 **27+ Applications**: Search open-source software with Persian translation support.
+- ⚠️ **Engine Challenges**: In-depth breakdowns of RTL text shaping, font injection, and game-specific quirks.
+- 📋 **One-Click Install Guides**: Copyable directory paths and step-by-step instructions.
 
 ---
 
-### 🎮 Game Localization Catalog
+## 📚 Documentation & Ecosystem
 
-> [!TIP]
-> 🌐 **Explore the Live Catalog (44+ Games & Applications):**  
-> For the comprehensive, searchable, and filterable database including **Official Releases**, **Open-Source Games**, and **Community Mods** with reverse-engineering obstacle notes and direct install paths, visit:  
-> 👉 **[https://parsisaz.github.io/parsisaz/](https://parsisaz.github.io/parsisaz/)**
-
-All game translation and localization projects hosted under ParsiSaz distribute **strictly original translation assets, optimized typography fonts, and community patch scripts**. They contain no proprietary game binaries and require a legitimate, legally acquired copy of the game.
-
-| Game Title | Status | Format / Patcher | GitHub Repository |
-| :--- | :---: | :--- | :--- |
-| **Kenshi** | Stable | Steam Workshop Mod & Po/XML files | [`ParsiSaz/Kenshi-farsi`](https://github.com/ParsiSaz/Kenshi-farsi) |
-| **Project Zomboid** | Active | Custom font atlas & UI translation files | [`ParsiSaz/Project-Zomboid-Game--Persian`](https://github.com/ParsiSaz/Project-Zomboid-Game--Persian) |
-| **Darkest Dungeon 2** | Stable | Glyph mapping & localized string tables | [`ParsiSaz/DarkestDungeon-2---Persian`](https://github.com/ParsiSaz/DarkestDungeon-2---Persian) |
-| **Software Inc.** | Stable | Translation catalog CSV/XML | [`ParsiSaz/Software-Inc-Game---Persian`](https://github.com/ParsiSaz/Software-Inc-Game---Persian) |
-| **Oxygen Not Included** | Active | Custom bitmap font & PO language assets | [`ParsiSaz/Oxygen-not-included-Persian`](https://github.com/ParsiSaz/Oxygen-not-included-Persian) |
-| **Stronghold: Warlords** | Stable | Text localization data & font configs | [`ParsiSaz/Stronghold-Warlords---Persian`](https://github.com/ParsiSaz/Stronghold-Warlords---Persian) |
-| **Don't Starve Together** | Active | Localized PO tables & custom Persian fonts | [`ParsiSaz/Dont-Strave-together-Persian`](https://github.com/ParsiSaz/Dont-Strave-together-Persian) |
-| **Stronghold Crusader 1** | Archive | Historic Persian community patches & resources | [`ParsiSaz/stronghold-crusader1-mods`](https://github.com/ParsiSaz/stronghold-crusader1-mods) |
+- 🎮 **[Game Catalog & Status](./docs/CATALOG.md)**: Full list of repository patches, formats, and releases.
+- ⚙️ **[Architecture & Toolchains](./docs/ARCHITECTURE.md)**: Details on `Parsik`, `farsiSaz`, and RTL font engines.
+- ⚖️ **[Legal & Modding Policy](./docs/POLICY.md)**: Compliance, non-infringement standards, and copyright ethics.
 
 ---
 
-### 🛠️ Core Technology & Desktop Toolchains *(In Active Development)*
-
-- **`Parsik`** *(Private/Core)*: Modular cross-platform GUI manager designed to effortlessly download, verify, install, and update Persian language patches and font packs for PC games.
-- **`farsiSaz`** *(Private/Core)*: Deep reverse-engineering framework, script parser, and font atlas generator tailored for games lacking native Unicode or Right-to-Left (RTL) text shaping.
-- **`CivilizationVI-PersianLanguage`** *(In Progress)*: Full Persian civilization and UI localization module for Sid Meier's Civilization VI.
-
----
-
-### ⚖️ Legal Compliance & Modding Policy
-
-1. **Strictly Non-Infringing**: Repositories in this organization do **NOT** distribute cracked executables, bypass DRM, or host copyrighted game code/audio/textures.
-2. **Fair Use & Modding**: Text modifications and localization patches are fan-made initiatives distributed under open-source or creative commons licenses to enable Persian-speaking gamers worldwide to experience interactive media in their native language.
-3. **Upstream Copyright**: All trademarks, game titles, and intellectual property belong to their respective developers and publishers.
-
----
-
-### 🌐 Organization Links
-
-- 🏛️ **Organization Home**: [https://github.com/ParsiSaz](https://github.com/ParsiSaz)
-- 👤 **Founder Profile**: [https://github.com/DanialPahlavan](https://github.com/DanialPahlavan)
-- 📖 **Persian Documentation**: [README_FA.md (راهنمای فارسی)](https://github.com/ParsiSaz/.github/blob/main/profile/README_FA.md)
+<div align="center">
+  <sub>Founded & Maintained by <a href="https://github.com/DanialPahlavan">Danial Pahlavan</a>. All game trademarks belong to their respective publishers.</sub>
+</div>
