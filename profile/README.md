@@ -14,12 +14,37 @@
 <br/>
 
 <a href="https://parsisaz.github.io/parsisaz/">
-  <img src="./assets/ferdowsi-modern-terminal.jpg" alt="Ferdowsi at Terminal - ParsiSaz" width="850" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+  <img src="./assets/ferdowsi-modern-terminal.jpg" alt="ParsiSaz Web Portal" width="850" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(0,242,254,0.25);" />
 </a>
 
 <br/><br/>
 
-### 👉 **[Explore Games, Technical Limitations & Installation Guides on Our Web Portal](https://parsisaz.github.io/parsisaz/)** 👈
+<!-- ==================== PROMINENT WEB PORTAL CALLOUT ==================== -->
+<table>
+  <tr>
+    <td align="center" style="background-color: #0b0f19; border: 2px solid #00f2fe; border-radius: 14px; padding: 24px 16px;">
+      <a href="https://parsisaz.github.io/parsisaz/">
+        <img src="https://img.shields.io/badge/🌐_OFFICIAL_WEB_PORTAL-parsisaz.github.io%2Fparsisaz-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="ParsiSaz Web Portal" height="34" />
+      </a>
+      <br/><br/>
+      <a href="https://parsisaz.github.io/parsisaz/" style="text-decoration: none;">
+        <h2>
+          🎮 📱 <b>CLICK HERE FOR THE FULL LIST OF GAMES & APPLICATIONS</b><br/>
+          <span style="color: #00f2fe;">👉 جهت مشاهده فهرست کامل بازی‌ها و برنامه‌های فارسی‌سازی شده کلیک کنید 👈</span>
+        </h2>
+      </a>
+      <p align="center" style="font-size: 1.05em; line-height: 1.8; max-width: 780px;">
+        <b>English:</b> Explore our live, searchable catalog of <b>40+ localized games & applications</b>. Filter by <b>Official</b>, <b>Open-Source</b>, and <b>Community Mod</b>, view reverse-engineering challenges (RTL shaping & font injections), and find one-click copyable install paths.<br/>
+        <b>فارسی:</b> دسترسی به فهرست جامع و تعاملی بیش از <b>۴۰ عنوان بازی و نرم‌افزار بومی‌سازی‌شده</b>. فیلتر بر اساس بازی‌های <b>رسمی</b>، <b>متن‌باز</b> و <b>مادهای کامیونیتی</b>، تحلیل موانع فنی خط پارسی و راست‌به‌چپ (RTL) به همراه راهنمای نصب قدم‌به‌قدم.
+      </p>
+      <br/>
+      <a href="https://parsisaz.github.io/parsisaz/">
+        <img src="https://img.shields.io/badge/🚀_OPEN_LIVE_PORTAL_%7C_ورود_به_سایت_parsisaz.github.io-00f2fe?style=for-the-badge&logoColor=black" alt="Open Live Portal" height="38" />
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- ====================================================================== -->
 
 <br/>
 
@@ -62,6 +87,11 @@
 ---
 
 ### 🎮 Game Localization Catalog
+
+> [!TIP]
+> 🌐 **Explore the Live Catalog (44+ Games & Applications):**  
+> For the comprehensive, searchable, and filterable database including **Official Releases**, **Open-Source Games**, and **Community Mods** with reverse-engineering obstacle notes and direct install paths, visit:  
+> 👉 **[https://parsisaz.github.io/parsisaz/](https://parsisaz.github.io/parsisaz/)**
 
 All game translation and localization projects hosted under ParsiSaz distribute **strictly original translation assets, optimized typography fonts, and community patch scripts**. They contain no proprietary game binaries and require a legitimate, legally acquired copy of the game.
 

@@ -9,11 +9,38 @@
 [![Ecosystem](https://img.shields.io/badge/اکوسیستم-بومی‌سازی_و_خط_پارسی-emerald?style=for-the-badge)](#-شاخه‌های-فعالیت--focus-areas)
 [![License Policy](https://img.shields.io/badge/قوانین-پچ_بدون_باینری_کپی‌رایت-orange?style=for-the-badge)](#-سلب-مسئولیت-حقوقی-و-کپی‌رایت--legal-compliance)
 
-<br/>
-
-<img src="./assets/ferdowsi-modern-terminal.jpg" alt="Ferdowsi at Terminal - ParsiSaz" width="850" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+<a href="https://parsisaz.github.io/parsisaz/">
+  <img src="./assets/ferdowsi-modern-terminal.jpg" alt="ParsiSaz Web Portal" width="850" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(0,242,254,0.25);" />
+</a>
 
 <br/><br/>
+
+<!-- ==================== PROMINENT WEB PORTAL CALLOUT ==================== -->
+<table>
+  <tr>
+    <td align="center" style="background-color: #0b0f19; border: 2px solid #00f2fe; border-radius: 14px; padding: 24px 16px;">
+      <a href="https://parsisaz.github.io/parsisaz/">
+        <img src="https://img.shields.io/badge/🌐_پورتال_رسمی_وب-parsisaz.github.io%2Fparsisaz-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="ParsiSaz Web Portal" height="34" />
+      </a>
+      <br/><br/>
+      <a href="https://parsisaz.github.io/parsisaz/" style="text-decoration: none;">
+        <h2>
+          🎮 📱 <b>جهت دسترسی به لیست کامل و تعاملی بازی‌ها و برنامه‌ها کلیک کنید</b><br/>
+          <span style="color: #00f2fe;">👉 CLICK HERE FOR THE FULL LIST OF GAMES & APPLICATIONS 👈</span>
+        </h2>
+      </a>
+      <p align="center" style="font-size: 1.05em; line-height: 1.8; max-width: 780px;">
+        <b>فارسی:</b> دسترسی به فهرست جامع و تعاملی بیش از <b>۴۰ عنوان بازی و نرم‌افزار بومی‌سازی‌شده</b>. فیلتر بر اساس بازی‌های <b>رسمی</b>، <b>متن‌باز</b> و <b>مادهای کامیونیتی</b>، تحلیل موانع فنی خط پارسی و راست‌به‌چپ (RTL) به همراه راهنمای نصب قدم‌به‌قدم.<br/>
+        <b>English:</b> Explore our live, searchable catalog of <b>40+ localized games & applications</b>. Filter by <b>Official</b>, <b>Open-Source</b>, and <b>Community Mod</b>, view reverse-engineering challenges (RTL shaping & font injections), and find one-click copyable install paths.
+      </p>
+      <br/>
+      <a href="https://parsisaz.github.io/parsisaz/">
+        <img src="https://img.shields.io/badge/🚀_ورود_به_سایت_parsisaz.github.io_%7C_OPEN_LIVE_PORTAL-00f2fe?style=for-the-badge&logoColor=black" alt="Open Live Portal" height="38" />
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- ====================================================================== -->
 
 > *«بسی رنج بردم در این سال سی / عجم زنده کردم بدین پارسی»*  
 > **— حکیم ابوالقاسم فردوسی**  
@@ -53,6 +80,11 @@
 ---
 
 ### 🎮 فهرست پروژه‌های بومی‌سازی بازی‌ها | Game Localization Catalog
+
+> [!TIP]
+> 🌐 **مشاهده پورتال زنده وب (شامل بیش از ۴۴ بازی و نرم‌افزار):**  
+> برای دسترسی به دیتابیس کامل، جستجوی زنده، فیلتر عناوین رسمی، متن‌باز و مادهای کامیونیتی، مشاهده موانع فنی موتورها و کپی‌کردن مستقیم مسیرهای نصب، به وب‌سایت زیر مراجعه کنید:  
+> 👉 **[https://parsisaz.github.io/parsisaz/](https://parsisaz.github.io/parsisaz/)**
 
 تمام پروژه‌های بومی‌سازی بازی در پارسی‌ساز صرفاً شامل **متون ترجمه‌شده، فونت‌های بهینه‌شده و اسکریپت‌های پچ‌ساز** بوده و نیازمند نسخه قانونی و خریداری‌شده بازی می‌باشند:
 
